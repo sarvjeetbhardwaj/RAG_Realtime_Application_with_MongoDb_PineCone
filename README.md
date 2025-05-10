@@ -1,0 +1,1 @@
+main.py file needs to be executed on a separate server before the execution of main.ipynb file as it detects any new entries/updated entries to the mongodb collection and generates new embeddings accordingly 
